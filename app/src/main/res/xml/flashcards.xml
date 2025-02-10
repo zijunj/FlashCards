@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <resources>
+        <array name="flashcards">
+            <item>
+                <flashcard>
+                    <question>What is the capital of France?</question>
+                    <answer>Paris</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>What is 2 + 2?</question>
+                    <answer>4</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>Who wrote 'To Kill a Mockingbird'?</question>
+                    <answer>Harper Lee</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>What is the largest planet in the solar system?</question>
+                    <answer>Jupiter</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>What is the speed of light?</question>
+                    <answer>299,792,458 meters per second</answer>
+                </flashcard>
+            </item>
+        </array>
+    </resources>
+</PreferenceScreen>
