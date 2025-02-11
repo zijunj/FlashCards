@@ -13,8 +13,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.text.style.TextAlign
-import androidx.compose.ui.tooling.preview.Preview
-import androidx.compose.ui.tooling.preview.PreviewParameter
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.delay
@@ -22,7 +20,6 @@ import kotlinx.coroutines.delay
 @Composable
 fun FlashcardQuizApp(initialFlashcards: List<Flashcard>) {
     var flashcards by remember { mutableStateOf(initialFlashcards) }
-    val coroutineScope = rememberCoroutineScope()
 
     // Auto-shuffle every 15 seconds
     LaunchedEffect(Unit) {
@@ -37,7 +34,7 @@ fun FlashcardQuizApp(initialFlashcards: List<Flashcard>) {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Text(
-            text = "Flashcard Quiz",
+            text = "History Flashcard Quiz",
             fontSize = 24.sp,
             color = Color.Black,
             modifier = Modifier

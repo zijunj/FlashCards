@@ -4,34 +4,95 @@
         <array name="flashcards">
             <item>
                 <flashcard>
-                    <question>What is the capital of France?</question>
-                    <answer>Paris</answer>
+                    <question>Who was the first President of the United States?</question>
+                    <answer>George Washington</answer>
                 </flashcard>
             </item>
             <item>
                 <flashcard>
-                    <question>What is 2 + 2?</question>
-                    <answer>4</answer>
+                    <question>What year did World War II end?</question>
+                    <answer>1945</answer>
                 </flashcard>
             </item>
             <item>
                 <flashcard>
-                    <question>Who wrote 'To Kill a Mockingbird'?</question>
-                    <answer>Harper Lee</answer>
+                    <question>Who was the first person to set foot on the moon?</question>
+                    <answer>Neil Armstrong</answer>
                 </flashcard>
             </item>
             <item>
                 <flashcard>
-                    <question>What is the largest planet in the solar system?</question>
-                    <answer>Jupiter</answer>
+                    <question>What was the name of the ship that carried the Pilgrims to America in 1620?</question>
+                    <answer>Mayflower</answer>
                 </flashcard>
             </item>
             <item>
                 <flashcard>
-                    <question>What is the speed of light?</question>
-                    <answer>299,792,458 meters per second</answer>
+                    <question>Which ancient civilization built the pyramids?</question>
+                    <answer>Egyptians</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>Who wrote the Declaration of Independence?</question>
+                    <answer>Thomas Jefferson</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>Which war was fought between the North and South regions of the United States?</question>
+                    <answer>The American Civil War</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>Who was the leader of Germany during World War II?</question>
+                    <answer>Adolf Hitler</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>What was the name of the famous trade route that connected China to the Mediterranean?</question>
+                    <answer>The Silk Road</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>When did the Roman Empire officially fall?</question>
+                    <answer>476 AD</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>Who was the British Prime Minister during most of World War II?</question>
+                    <answer>Winston Churchill</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>What was the name of the document that limited the power of the King of England in 1215?</question>
+                    <answer>Magna Carta</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>Which U.S. state was the last to join the United States?</question>
+                    <answer>Hawaii</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>Who was the first emperor of China?</question>
+                    <answer>Qin Shi Huang</answer>
+                </flashcard>
+            </item>
+            <item>
+                <flashcard>
+                    <question>What was the main cause of the Cold War?</question>
+                    <answer>The ideological conflict between capitalism and communism</answer>
                 </flashcard>
             </item>
         </array>
     </resources>
+
 </PreferenceScreen>
